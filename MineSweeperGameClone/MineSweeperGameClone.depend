@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1691832765 source:c:\users\visha\desktop\minesweeper\minesweeper.cpp
+	"MineSweeper.h"
+
+1691833371 c:\users\visha\desktop\minesweeper\minesweeper.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+	<vector>
+
+1691840919 source:c:\users\visha\desktop\project_minesweeperclone\minesweepergameclone\main.cpp
+	"MineSweeper.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+
+1691840890 source:c:\users\visha\desktop\project_minesweeperclone\minesweepergameclone\minesweeper.cpp
+	"MineSweeper.h"
+
+1691841102 c:\users\visha\desktop\project_minesweeperclone\minesweepergameclone\minesweeper.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+	<vector>
+
